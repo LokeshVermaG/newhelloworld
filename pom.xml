@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tig</groupId>
 	<artifactId>newhelloworld</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>mule</packaging>
 	<name>Mule newhelloworld Application</name>
 	
@@ -12,7 +12,7 @@
 		<url>https://github.com/LokeshVermaG/newhelloworld</url>
 		<developerConnection>scm:git:https://github.com/LokeshVermaG/newhelloworld.git</developerConnection>
 		<connection>scm:git:https://github.com/LokeshVermaG/newhelloworld.git</connection>
-		<tag>newhelloworld-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	
 
